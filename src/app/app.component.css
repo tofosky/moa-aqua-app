@@ -1,0 +1,56 @@
+spacer {
+  flex: 1 1 auto;
+}
+.container {
+  height: 100%;
+  padding: 0;
+  left: 0;
+  margin: 0;
+  right: 0;
+  top: 0;
+}
+
+.icon{
+    font-size:12px;
+}
+
+.sidenav {
+  width: 200px;
+  padding: 0;
+  left: 0;
+  margin: 0;
+  right: 0;
+  top: 0;
+  border: none;
+  box-shadow: 3px 0 6px rgba(219, 204, 0, 0.493);
+}
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+
+.space {
+  margin-right: 1%;
+  margin-left: 1%;
+  color: rgb(255, 145, 0);
+  font-size: 27px;
+}
+.sidenav {
+  width: 200px;
+  padding: 0;
+  left: 0;
+  margin: 0;
+  right: 0;
+  top: 0;
+  border: none;
+   box-shadow: 3px 0 6px   #ff13d8;
+  background:#ff13d8 !important
+}
+
+.tools{
+  background: blue !important;
+}
